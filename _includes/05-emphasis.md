@@ -1,11 +1,15 @@
-*10 Times Cloud Certified*
+# *10 Times Cloud Certified*
 
-**AWS, Azure, GCP and OCI**
+## AWS
 
-_10 Times Cloud Certified_
+## Azure
 
-__AWS, Azure, GCP and OCI__
+## GCP
 
-_10 Times **Cloud** Certified_
+## OCI
 
-_Plus **Terraform & Kubernetes**_
+# Plus 
+
+## Terraform
+
+## Kubernetes
