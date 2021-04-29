@@ -10,10 +10,11 @@
 6. ✨ Multi-Cloud
 
 # Multi-Cloud
-    * AWS
-    * GCP
-    * OCI
+    🌩️ AWS
+    🌩️ GCP
+    🌩️ Azure
+    🌩️ OCI
 
 # OnPremises
-    - VMware
-    - Hyper-V
+    Non-:🌩️  VMware
+    Non-:🌩️  Hyper-V
